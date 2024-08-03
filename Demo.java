@@ -1,5 +1,5 @@
 public class Demo {
-    public int greeting() {
+    public String greeting() {
         return "Hello World";
     }
 }
